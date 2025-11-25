@@ -13,12 +13,7 @@ An **interactive sales dashboard** built with **Next.js 16**, **TypeScript**, **
 
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Usage](#usage)
-- [Deploy](#deploy)
-- [Notes & Next Steps](#notes--next-steps)
-- [Author](#author)
+
 
 ---
 
@@ -39,3 +34,6 @@ An **interactive sales dashboard** built with **Next.js 16**, **TypeScript**, **
 ```bash
 git clone https://github.com/TruptiDikkar/sales-dashboard.git
 cd sales-dashboard
+
+
+
